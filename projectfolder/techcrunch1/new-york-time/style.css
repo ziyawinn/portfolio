@@ -1,0 +1,33 @@
+*{
+  margin: auto;
+  height: auto;
+}
+.h1 {
+color: red;
+text-align: center;
+padding:4% 2px 2px 2px;
+}
+.wednesday{
+color: red;
+text-align: center;
+padding: 0% 6px 0px 0px
+}
+
+.leftSection{
+  float: left;
+  display: inline-block;
+  border: 1px solid black;
+  width: 10%;
+}
+
+.rightSection{
+  float: right;
+  display: inline-block;
+  border: 1px solid black;
+  width: 11%;
+}
+.parentSection  li{
+   display: inline-block;
+   padding-left:2%;
+   color: red;
+}
